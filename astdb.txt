@@ -1,0 +1,13 @@
+### NODE|CALL|INFO|LOCATION ###
+1100|WSAA690|Buckeye GMRS
+53630|WRWM725|Columbus, Ohio 575 Repeater
+53631|WRWM725|Ric's Node
+53632|WRWM725|Ric's Node
+53645|WRUK872|Amanda, Ohio 625 Repeater
+53646|WRUK872|The Buckeye Hub Lancaster, OH
+53647|WRUK872|Simplex Mobile
+53648|WRUK872|Lancaster, Ohio 600 Repeater
+53649|WRUK872|Tre's Home Node
+53814|WSAA690|Pataskala, Ohio 650 Repeater
+53828|WSAA690|Philip's Moblie Device Node
+53833|WSAA690|Philip's  PiHat
