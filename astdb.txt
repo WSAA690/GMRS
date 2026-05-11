@@ -9,5 +9,5 @@
 53648|WRUK872|Lancaster, Ohio 600 Repeater
 53649|WRUK872|Tre's Home Node
 53814|WSAA690|Pataskala, Ohio 650 Repeater
-53828|WSAA690|Philip's Moblie Device Node
+53828|WSAA690|Philip's Mobile Device Node
 53833|WSAA690|Philip's PiHat
